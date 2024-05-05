@@ -1,0 +1,17 @@
+{
+  "readableLineLength": false,
+  "showLineNumber": true,
+  "useTab": false,
+  "tabSize": 2,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "articles",
+  "newLinkFormat": "absolute",
+  "showUnsupportedFiles": true,
+  "useMarkdownLinks": true,
+  "attachmentFolderPath": "images",
+  "userIgnoreFilters": [
+    "node_modules/"
+  ],
+  "livePreview": false
+}
