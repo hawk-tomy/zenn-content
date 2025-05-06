@@ -7,7 +7,7 @@ topics:
   - "discord"
   - "discordpy"
   - "discordbot"
-published: false
+published: true
 ---
 discord.pyにv2.4で追加された[discord.ui.DynamicItem](https://discordpy.readthedocs.io/ja/stable/interactions/api.html#dynamicitem)は便利ですよ、ということをボタン一つの簡易的なロールパネルを作ることで紹介します。
 [公式の使用例](https://github.com/Rapptz/discord.py/blob/master/examples/views/dynamic_counter.py)
